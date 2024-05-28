@@ -1,1 +1,1 @@
-# lctc-frontend-react
+# lctc-frontend-nextjs
